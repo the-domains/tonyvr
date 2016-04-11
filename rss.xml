@@ -2,13 +2,21 @@
     <channel>
         <title><![CDATA[TonyVR]]></title>
         <description><![CDATA[TonyVR]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/tonyvr/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 11 Apr 2016 20:20:46 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 11 Apr 2016 20:29:04 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/tonyvr/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <link>undefinedf43500ca-8bcc-44d0-85ee-fe52cea1cd98/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/901cb377-3e6f-4b1d-876c-5c2a8d3e9852.jpg">]]></description>
+            <link>https://thegrid.ai/tonyvr/im-a-digital-artist/index.html</link>
+            <guid isPermaLink="false">d82571a6-2350-4f25-a9e8-bbff3d0681a8</guid>
+            <pubDate>Mon, 11 Apr 2016 20:28:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Hi, Welcome to my Grid site!</p>]]></description>
+            <link>https://thegrid.ai/tonyvr/f43500ca-8bcc-44d0-85ee-fe52cea1cd98/index.html</link>
             <guid isPermaLink="false">f43500ca-8bcc-44d0-85ee-fe52cea1cd98</guid>
             <pubDate>Mon, 11 Apr 2016 20:20:46 GMT</pubDate>
         </item>
