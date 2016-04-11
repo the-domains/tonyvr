@@ -1,0 +1,28 @@
+name: TonyVR
+favicon: null
+layout_spectrum: 0.0496187771204859
+typography_spectrum: 0.4022566070780158
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.6207665337715298
+  lightness: 0.37842649896629155
+  saturation: 0.04675788409076631
+  rhythmicContrast: 0.05944588454440236
+purpose: []
