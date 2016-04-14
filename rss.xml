@@ -1,18 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[TonyVR]]></title>
-        <description><![CDATA[TonyVR]]></description>
+        <title><![CDATA[TONYVR]]></title>
+        <description><![CDATA[TONYVR]]></description>
         <link>https://thegrid.ai/tonyvr/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 11 Apr 2016 20:32:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Apr 2016 04:24:16 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/tonyvr/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>https://vimeo.com/139183593</p>]]></description>
-            <link>https://thegrid.ai/tonyvr/6d81766d-50c6-40aa-8922-6fa0ec6018ef/index.html</link>
-            <guid isPermaLink="false">6d81766d-50c6-40aa-8922-6fa0ec6018ef</guid>
-            <pubDate>Mon, 11 Apr 2016 20:31:45 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/901cb377-3e6f-4b1d-876c-5c2a8d3e9852.jpg">]]></description>
