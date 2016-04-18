@@ -1,4 +1,4 @@
-name: TonvanRijswijk
+name: Ton van Rijswijk
 favicon: null
 layout_spectrum: 0.22007
 typography_spectrum: 0.85577
@@ -23,7 +23,7 @@ color:
     - '#161614'
     - '#d52d54'
   brandStrength: 0.1875
-  lightness: 0.5
-  saturation: 0.875
+  lightness: 0.5625
+  saturation: 0.6875
   rhythmicContrast: 1
 purpose: []
