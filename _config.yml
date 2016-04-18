@@ -1,4 +1,4 @@
-name: TonyVR
+name: TonyvanRijswijk
 favicon: null
 layout_spectrum: 0.0496187771204859
 typography_spectrum: 0.4022566070780158
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#e9d9b5'
-    - '#ae9d7f'
-    - '#4e4633'
-    - '#0d080c'
-    - '#44a86c'
-  brandStrength: 0.75
-  lightness: 0.37842649896629155
-  saturation: 0
-  rhythmicContrast: 0.25
+    - '#fcfbfc'
+    - '#118c55'
+    - '#abb1ba'
+    - '#161614'
+    - '#d52d54'
+  brandStrength: 0
+  lightness: 0.625
+  saturation: 1
+  rhythmicContrast: 1
 purpose: []
