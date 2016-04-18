@@ -1,7 +1,7 @@
 name: TonyvanRijswijk
 favicon: null
-layout_spectrum: 0.0496187771204859
-typography_spectrum: 0.4022566070780158
+layout_spectrum: 0.22007
+typography_spectrum: 0.85577
 title: TONYVR
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#abb1ba'
     - '#161614'
     - '#d52d54'
-  brandStrength: 0
-  lightness: 0.625
-  saturation: 1
+  brandStrength: 0.1875
+  lightness: 0.5
+  saturation: 0.875
   rhythmicContrast: 1
 purpose: []
